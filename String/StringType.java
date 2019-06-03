@@ -1,6 +1,7 @@
 public class StringType{
     public static void main (String args[]){
-        String a = " direct assignment";
+        String stringObject = new String ("String is object data type"); // proper way to assign values to String
+        String a = " direct assignment"; // easy way to assign values to String datatype
         String b = new String ("created new String object with new String");
 
         String x1 = "Lenovo X1";
@@ -13,6 +14,9 @@ public class StringType{
 
         System.out.println( x1 + ' ' + carbon);
         System.out.println(laptopName + " 7th Gen" );
+        System.out.println(stringObject);
+
+
 
         String YOE = "3";
 
