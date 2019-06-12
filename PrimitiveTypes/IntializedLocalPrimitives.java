@@ -15,7 +15,6 @@ public class IntializedLocalPrimitives{
         char singleCharacter; // single character e.g. 'a' , range : 0 to 65,536 (unsigned)
         boolean tOrF ; //either true or false  
 
-        //assignemt of the values
         smallerThanShort = 127;
         smallerThanInt = 32767;
         i = 2147483;
