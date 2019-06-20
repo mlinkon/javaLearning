@@ -2,7 +2,7 @@ public class IntegerLiteral{
     public static void main (String args[]){
 
         /*
-        You can assign interger literals in base decimal, binary, octal, and hexadecimal.
+        You can assign integer literals in base decimal, binary, octal, and hexadecimal.
         For octal literals, use the prefix 0 - zero;
         For binary lierals, use the prefix 0B or 0b; 
         For hexadecimal, use the prefix 0X or 0x.
@@ -20,7 +20,7 @@ public class IntegerLiteral{
         System.out.println(binaryValue);
 
         /*
-        underscores can be used as part of literal values.
+        Underscores can be used as part of literal values.
         Grouping individual digits or letters of literal values makes them more readable.
         Underscores have no effect on the values.
 
@@ -41,9 +41,5 @@ public class IntegerLiteral{
         System.out.println(longOctalValue);
         System.out.println(longHexaDecimalValue);
         System.out.println(longBinaryValue);
-
-
-
-
     }
 }
